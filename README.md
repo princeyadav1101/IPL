@@ -1,0 +1,2 @@
+# IPL
+While dealing with data, Kaggle: Your Home for Data Science is the to-go platform. we used the dataset https://www.kaggle.com/ramjidoolla/ipl-data-set. The dataset included data between the year 2008 and year 2019 Include EDA analysis results, and also an overview of the dataset and a rough representation. Explain the transformation methods we intend to implement on our dataset before analyzing it.  There are six diverse data combinations in our data set.
